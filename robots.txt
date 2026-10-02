@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://academy.mediagiantsenterprise.com/sitemap.xml
