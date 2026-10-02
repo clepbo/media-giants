@@ -16,7 +16,7 @@ window.SITE_CONFIG = {
 
   // Paste Paystack or Flutterwave payment-page links here (e.g. https://paystack.com/pay/your-page)
   paymentLinks: {
-    live: "",
+    live: "https://flutterwave.com/pay/mediagiants-ads-masterclass",
     recorded: ""
   }
 };
